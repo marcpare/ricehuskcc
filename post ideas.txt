@@ -1,0 +1,68 @@
+
+Day 4 : Importance, Meaning of Excess Air
+-----
+
+
+
+Day 3 : Practical Rice Husk Combustion
+-----
+
+Reaching high heat transfer efficiencies in a rice husk gasifier can be difficult because of the combustion characteristics of rice husk producer gas.
+
+- poorly tuned EA will drop off efficiency very quickly
+- mm sized gaps result in big EA differences
+- mixing and large gas production (V vs. A)
+
+So, can the flame be stabilized? 
+
+Can we control air supply effectively over the course of a burn?
+
+
+Day 2 : Targets
+-----
+
+Design and invention is a tricky process. On the one hand, you've got to be aiming at something, otherwise you will flounder around in the vast sea of poor designs. On the other, you can't aim too directly, otherwise you will miss opportunities to discover something new.
+
+One means I've found that is useful is to determine that something is possible from first principles, then try to work out the details in getting there.
+
+It turns out that there are a great many things that are possible, just no one has tried them before. In heat transfer engineering, you can approach it this way: what's the theoretical maximum efficiency? Do existing devices reach it?
+
+For rice husk water boiling it looks something like this.
+
+What would the required fuel use be to boil a pot of water?
+
+At 100% efficiency, you would need X kg of rice husk.
+
+What are some efficiencies that real stoves have reached? (around 45% OTE). That means X kg of fuel are necessary.
+
+What volume of device would be required for this?
+
+(row of form factors drawings)
+
+What is there actually out there right now?
+
+(compare to form factor drawings, maybe in red?)
+
+So, we can see that to boil 3 L of water, there's an opportunity.
+
+Why might such a device not have been designed yet?
+
+
+Day 1
+-----
+
+In December 2012, two missionaries welcomed me into their homes in Cambodia to see if I could help advance their improved cook stove work in and around Battambang, Cambodia.
+
+These two missionaries, Kent and Becky Good, did extraordinary work. They could speak Khmer. They fed me the best duck soup I had had in my two years in Southeast Asia. They balanced a great many community projects in language, religion, and business.
+
+I learned a great deal about the cooking conditions in rural Cambodia. We made a lot of progress improving stove designs together.
+
+Unfortunately, we never arrived at a final design. I have been thinking about the problem since. I have finally managed to carve out some time and resources to approach this design problem again. 
+
+I'm calling the device the BECKY BOILER because of Becky's patience for Kent's experiments. 
+
+Now, one of my major principles in designing for the developing world is to try to avoid a "solutions focused" approach. Because of the enormous complexity of designing products outside of your cultural and socioecomonic frame, I believe that it is essentially impossible that your invention will "save the world." Even Norman Borlaug's advances in wheat genetics nearly didn't make it to people in time.
+
+On the other hand, it's difficult for your involvement with a community to not benefit it in some way. Whether it is increased awareness of their issues, knowledge exchange, or simply being an extra set of hands to help with work.
+
+In that spirit, this design exercise will be both about driving at a novel technical achievement as well as a meaningful documentation effort of some of the knowledge I accrued the last two years working in rural Southeast Asia.
