@@ -1,0 +1,3 @@
+Options +FollowSymlinks
+RewriteEngine On
+RewriteRule ^goodboiler/([a-z0-9]+)$ goodboiler.php?day=$1 [NC]
