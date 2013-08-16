@@ -1,4 +1,20 @@
 <?php
+
+function img($src, $class){
+  return "<img src=\"{$src}\" class=\"{$class}\"></img>";
+}
+
+function img_caption($text){
+  return "<p class=\"caption\">{$text}</p>";
+}
+
+function img_stretched($fn, $caption=false){
+  echo img(route_img($fn), "stretched");
+  if($caption){
+    echo img_caption($caption);    
+  }  
+}
+
 function head(){?>
   <!DOCTYPE html>
   <html lang="en">
@@ -72,7 +88,7 @@ function right_bar(){?>
   <div class="pure-u-1-6">
     <div class="col">
     <h1>About</h1>
-    <p>Rice husk, the outer shell of a grain of rice, is produced worldwide and generally considered a waste material. The particular physical properties of rice husk do not lend it to many applications. It is too fluffy to transport, is too widespread to charge for, and makes a poor fuel source.</p>
+    <p>Rice husk, the outer shell of a grain of rice, is produced worldwide and generally considered a waste material. The particular physical properties of rice husk do not lend it to many applications.</p>
     <p>As a result, there are large, nearly free sources of rice husk is almost every country in the world. With appropriate devices, this resource could be used for clean cooking, cheap fuel, or electricity generation. The peculiar traits of rice husk also make it an interesting filtration medium and soil amendment.</p>
     <p>The knowledge for this sort of design is nearly lost. This site hopes to reclaim some of the knowledge before it disappears, as well as serve as a new hub for designers, tinkerers, and implementors.</p>
     </div>
