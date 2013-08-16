@@ -8,8 +8,7 @@
   center_start();
 ?>
 
-  <h1><span class="good-boiler-logo">Good Boiler</span> Design Log</h1>    
-  <?php include './goodboilerlog/day1.php'; ?>
+  <h1>Home</h1>    
 
 <?php 
   center_end();

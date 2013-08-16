@@ -4,7 +4,7 @@ class Config {
   private static $me;
   
   private $productionServers = array('ricehusk.cc');
-  private $localServers = array('localhost');
+  private $localServers = array('localhost:8888');
   
   private function __construct(){
     $this->everywhere();
@@ -36,14 +36,14 @@ class Config {
   private function production(){
     ini_set('display_errors', '0');
 
-    define('WEB_ROOT', '/');
+    $this->web_root = '/';
   }
   
   private function local(){
     ini_set('display_errors', '1');
     ini_set('error_reporting', E_ALL);
-
-    define('WEB_ROOT', 'ricehuskcc/');
+    
+    $this->web_root = 'ricehuskcc/';
   }
   
   public function whereAmI(){

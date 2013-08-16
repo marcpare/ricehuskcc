@@ -32,7 +32,7 @@ function head(){?>
   </head>
 
   <body>
-  <?php include './analytics.php '; ?>
+  <?php include './analytics.php'; ?>
     
 <?php
 }
@@ -61,8 +61,8 @@ function left_bar(){?>
     <p class="callout">Currently running a 30-day design project for a new class of rice husk device.</p>
     
     <ul>
-      <li><a href="">home</a></li>
-      <li><a href=""><span class="good-boiler-logo">Good Boiler</span>  design</a></li>
+      <li><a href="<?=URL_ROOT?>">home</a></li>
+      <li><a href="<?=URL_ROOT?>goodboiler"><span class="good-boiler-logo">Good Boiler</span>  design</a></li>
       <!--
       <li><a href="">gasifier design tables</a></li>
       <li><a href="">physical properties</a></li>
