@@ -36,7 +36,7 @@ class Config {
   private function production(){
     ini_set('display_errors', '0');
 
-    $this->web_root = '/';
+    $this->web_root = '';
   }
   
   private function local(){
