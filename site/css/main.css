@@ -24,3 +24,5 @@ body {
   font-family: 'Leckerli One', Helvetica;
   text-transform: capitalize;
 }
+
+.centered { text-align: center }

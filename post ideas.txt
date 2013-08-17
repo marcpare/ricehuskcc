@@ -1,10 +1,50 @@
+Calculate how big a stove we would need
+---------------------------------------
+
+Include Kelly Kettle? Higher HT eff?
+
+
+
+Efficiency as a marker
+----------------------
+
+(later in the process?)
+
+
+Lavoisier
+--------
+
+(reminds us to be quantitative. plus, he enabled us pyros.)
+
+It is generally accepted that Lavoisier's great accomplishments in chemistry largely stem from the fact that he changed the science from a qualitative to a quantitative one. Lavoisier is most noted for his discovery of the role oxygen plays in combustion. 
+
+http://upload.wikimedia.org/wikipedia/commons/6/6c/Antoine_lavoisier_color.jpg
+
+
+
+
+
+Metrics
+------
+
+Sorting through promises by manufacturers and designers is a mess.
+
+It's like they're out to purposefully confuse you. Numbers are reported in different units. Made-up quantities are used for performance. Sometimes numbers aren't used at all. "It's super efficient" "It's ultra clean" "It's amazing!"
+
+A particularly insidious obfuscation method comes from us, the engineers. We've invented vocabularies to describe physical phenomena: heat transfer, radiation, convection, conduction, excess air, turbulence, etc. These words have very precise meaning within the discipline of engineering. However, it is just as easy to use this vocabulary to purposefully confuse conversations in order to promote our agendas. 
+
+I don't think this is fair. 
+
+You can use your privileged engineering knowledge to add to the cloud of confusion or to cut through it, exposing the charlatans and commending the clear-thinkers.
+
+
+
+
+
+
 
 Day 3: table of existing technology. Diagram of size, capability. 
 Table!
-
-
-
-
 
 
 
@@ -76,3 +116,96 @@ Now, one of my major principles in designing for the developing world is to try 
 On the other hand, it's difficult for your involvement with a community to not benefit it in some way. Whether it is increased awareness of their issues, knowledge exchange, or simply being an extra set of hands to help with work.
 
 In that spirit, this design exercise will be both about driving at a novel technical achievement as well as a meaningful documentation effort of some of the knowledge I accrued the last two years working in rural Southeast Asia.
+
+
+
+
+
+
+
+
+Misc
+----
+
+Today, I want to do a system-level calculation of the stove's power (Cooking Power) and efficiency (Overall Thermal Efficiency). We can ignore everything that goes on inside the reactor and focus on just the starting and ending conditions of the device.
+
+Cooking Power is a measure of how quickly a stove can heat something up. High power means you can transfer energy quickly. Low power means you transfer energy slowly. We need to know two things to do the calculation.
+
+(1) How hot the stove was able to heat a pot of water
+(2) How long it took to achieve this temperature change
+
+Here is an example test result from Kent Good in Cambodia
+
+Time | 12 minutes
+Volume Water | 5 Liters
+Temperature Start | 31 C
+Temperature End | 99.1 C
+
+The energy required to change the temperature of water from 99.1 to 31 C is calculated this way:
+
+...
+
+
+Therefore, the stove supplied 
+
+... kJ of energy
+
+Power is simply this amount of energy divided by the time
+
+kJ / 12 min = kW
+
+
+
+
+
+
+(a) How much fuel was used during firing
+
+We will use these to calculate
+
+(1) Cooking Power
+(2) Overall Thermal Efficiency
+
+A rice husk gasifier transforms the energy contained in a grain of rice husk into heat energy used to increase the temperature of a cooking pot or pan.
+
+To boil a pot of water, you need to supply the water about XX kJ of energy. That amount of energy will raise 5L of water from 30 C to 100 C.
+
+
+
+
+
+
+
+
+The majority of people reading through this won't already be familiar with rice husk gasifiers. As a result, my previous
+
+
+Today, I'll walk through the baseline engineering quantities that I think will be useful for this design project.
+
+
+Power -- Measured in kW (kiloJoule per second) -- this is the rate at which energy is transferred from one body to another. A high power stove will heat something _faster_ than a low power stove. If the two stoves have the same amount of fuel, the total energy transferred by the two stoves will be the same. One will just do it faster.
+
+Fuel Consumption -- 
+
+Batch time --
+
+Heating profile -- 
+
+Efficiency -- this is a really tricky quantity. It is supposed to be a measure of how much energy is lost by your stove. It turns out that it's not so easy to agree on a good definition for this quantity.
+
+For now, I will use efficiency in a really simple way. I will only use it for estimates of stove performance and as an indicator of poor performance. 
+
+Let's use these quantities to answer some useful questions. 
+
+Can I cook a pot of beans with this?
+How big of a pot of beans can I cook with this device?
+If I only have time to collect 50 lb of rice husk a week, how much water could I boil?
+
+This post is not even close to the last word in promoting clear engineering communication. There won't be a last word because the whole thing is a process. Each time something comes up, you can choose to express it in a straightforward or to hide behind a veil of complexity. 
+
+Ultimately, this is about your own understanding as much as it is about the understanding of others. Your own ego will push you to gloss over truly understanding something if it risks proving your ideas are no good. This hurts in the short run, but it's better in the long run. You want to develop a solid foundation of knowledge, one that you can confidently deploy against the natural world and see it hold up.
+
+Tomorrow, I'll apply them to a variety of devices.
+
+
+(tangle to show how much you can cook with different power levels?)
