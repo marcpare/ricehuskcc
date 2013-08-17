@@ -17,7 +17,8 @@
 
 <ul>
   <li><a href="day1">Day 1: Introduction and Inspiration</a></li>
-  <li><a href="day2">Day 2: Product Paradoxes and the Origin of the Boiler Concept</a></li>
+  <li><a href="day2">Day 2: Product Paradoxes and the Origin of the Boiler
+  <li><a href="day3">Day 3: You Can't Burn Water</a></li>
 </ul>
 
 <?php 
