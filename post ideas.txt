@@ -1,3 +1,25 @@
+
+At the bottom of the post, I'll share a list of materials and tools that are useful for prototyping. These materials are low cost, easy to fabricate, and/or are useful for stove building. You can buy this stuff at the store or find it in the wild as Obtainium.
+
+Materials and Tools useful for Prototyping
+
+Tin Cans
+Coffee Cans
+Paint Cans
+Garbage Pails
+Used Coffee Kettles
+Duct work (it fits together easily, can be worked with tin shears by hand, fasted with screws. Comes in standard sizes so you can mix and match components.)
+Wire mesh
+Aluminum Flashing
+Anything from the 'grill' section
+PVC (obviously not for anything near a fire, but useful for attaching fans)
+Perlite (buy it at the garden supplier, use it for insulation)
+Tin Shears
+Pop rivets
+
+
+
+
 Calculate how big a stove we would need
 ---------------------------------------
 
@@ -175,6 +197,23 @@ To boil a pot of water, you need to supply the water about XX kJ of energy. That
 
 
 
+
+(a series of techniques?)
+* obtainium
+  - list useful obtainium
+* design the tests
+* combustion analyzer
+* proxy fuels
+
+why prototype?
+
+- hard to visualize
+- many factors, predict, test, repeat
+- pick up momentum
+- point of reference
+-
+
+***
 
 
 The majority of people reading through this won't already be familiar with rice husk gasifiers. As a result, my previous

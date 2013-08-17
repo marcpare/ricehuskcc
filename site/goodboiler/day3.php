@@ -12,7 +12,7 @@
 
 <p>The fuel is consumed from the top down. The stove design community has come to term this "Top Lit UpDraft Gasification" (TLUD). The history of TLUDs is quite interesting, supposedly arising from soldiers designing low-smoke fires to hide their location as they snuck through dense woods. These days, <a href="http://www.drtlud.com">Doc TLUD</a> promotes their design and development world wide.</p>
 
-<p>As you increase the diameter of the stove, more fuel is used up for a give time. That means more energy is released. The power of the device is correspondingly higher. The energy released is directly proportional to the area of the cross-section of the stove. Therefore, it is exponentially proportional to the diameter.</p>
+<p>As you increase the diameter of the stove, more fuel is used up for a give time. That means more energy is released. The power of the device is correspondingly higher. The energy released is directly proportional to the area of the cross-section of the stove. Therefore, it is proportional to the square of the diameter.</p>
 
 <p class="centered">
 $Power \propto Area \propto Diameter ^ 2$
@@ -22,7 +22,7 @@ $Power \propto Area \propto Diameter ^ 2$
 
 <p>Therefore, if you make the stove taller, it will run longer without requiring a re-fuel. You call the amount of time without a refuel the "batch time".</p>
 
-<p>A wider stove is more powerful. A taller stove runs longer. Now, let's think about cooking.</p>
+<p>Summarizing, a wider stove is more powerful, and a taller stove runs longer. Now, let's think about cooking.</p>
 
 <p>When you cook something, you can't just turn your stove up as high as you like. You will burn the food. The power required is a fixed quantity. Therefore, the diameter of the Cylindrical Gasifier that you would need is also fixed.</p>
 
@@ -60,6 +60,7 @@ $$Area_{surface} = {4 \pi ^ 2 V \over D} $$
 
 <h3>Image attributions</h3>
 <p><a href="http://www.rolexawards.com/press/photos/2008/belonio/">Rolex Awards for Enterprise</a></p>
+<p><a href="http://xkcd.com/">xkcd</a></p>
 
 
 
