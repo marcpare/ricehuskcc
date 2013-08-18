@@ -9,6 +9,20 @@
 ?>
 
   <h1>Home</h1>    
+  
+  <p>Picture of rice husk here...</p>
+  <p>Blurb and photo introduction of Good Boiler</p>
+  
+  <h2>About</h2>
+  <p>Rice husk, the outer shell of a grain of rice, is produced worldwide and generally considered a waste material. The particular physical properties of rice husk do not lend it to many applications.</p>
+  
+  <p>As a result, there are large, nearly free sources of rice husk is almost every country in the world. With appropriate devices, this resource could be used for clean cooking, cheap fuel, or electricity generation. The peculiar traits of rice husk also make it an interesting filtration medium and soil amendment.</p>
+  <p>The knowledge for this sort of design is nearly lost. This site hopes to reclaim some of the knowledge before it disappears, as well as serve as a new hub for designers, tinkerers, and implementors.</p>
+  
+  <h2>Open Source</h2>
+  <p>You can send pull requests for this site on Github</p>
+
+   <p><img src="<?=route_img("octocat.png")?>"></img> <a href="https://github.com/marcpare/ricehuskcc">source code</a></p>
 
 <?php 
   center_end();
