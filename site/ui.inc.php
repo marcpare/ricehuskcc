@@ -50,7 +50,7 @@ function content_end(){?>
 }
 
 function left_bar(){?>
-  <div class="pure-u-1-6">
+  <div class="pure-u-1-4">
     <div class="col">
     
     <h1>ricehusk.cc</h1>
@@ -97,7 +97,7 @@ function right_bar(){?>
 }
 
 function center_start(){?>
-  <div class="pure-u-5-6">
+  <div class="pure-u-3-4">
     <div class="col">
 <?php
 }
