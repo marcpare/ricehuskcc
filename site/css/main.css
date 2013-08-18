@@ -1,7 +1,5 @@
 body {
-  margin-top: 40px;
-  margin-left: 20px;
-  margin-bottom: 50px;
+  margin: 40px 20px 50px 20px;
 }
 
 .callout {

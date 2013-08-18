@@ -12,14 +12,16 @@
 
 <p>Unfortunately, we never arrived at a final design. I have been thinking about the problem since. I have finally managed to carve out some time and resources to approach this design problem again.</p>
 
-<p>I'm going to spend the next 30 days designing and documenting a device that would be useful to rural Cambodia. I'm calling it the <span class="good-boiler-logo">good boiler</span> because of the idea's roots with Kent and Becky Good.</p>
+<p>I'm going to spend the next 30 days designing and documenting a device that would be useful to rural Cambodia. I'm calling it the <span class="good-boiler-logo">good boiler</span> in honor of the hospitality of Kent and Becky Good.</p>
 
-<p>I'm going to avoid a "solutions focused" approach. Because of the enormous complexity of most major world issues, I think it is effectively impossible to "save the world" with an invention. Even Norman Borlaug who saved an estimated one billion lives with his genetically engineered seeds noted:</p>
+<p>This effort is about more than just an improved design.</p>
+
+<p>Because of the enormous complexity of most major world issues, I think it is  impossible to "save the world" with an invention. Norman Borlaug, who saved an estimated one billion lives with his genetically engineered seeds, described it this way:</p>
 
 <blockquote>When the Nobel Peace Prize Committee designated me the recipient of the 1970 award for my contribution to the 'green revolution', they were in effect, I believe, selecting an individual to symbolize the vital role of agriculture and food production in a world that is hungry, both for bread and for peace.</blockquote>
 
-<p>It's better to view yourself as a single part of a large, complex ecosystem (rather than as some sort of grand designer of humanity's future). You impact such systems by pushing and pulling along existing lines of least resistance. As an engineer, this means, for example, that you use your expertise to demonstrate novel aerodynamic effects, while you let local mechanics tinker together new products using their knowledge of materials and manufacturing methods.</p>
+<p>You should avoid a "solutions focused" approach. Rather than play the grand designer of a society's future, push and pull along existing lines of least resistance. Do this by teaching, writing, and demonstrating. Norman Borlaug, for example, set up schools to train Mexican students in his advanced agricultural techniques. They would become a powerful influence worldwide when demand for his special seeds skyrocketed.</p>
 
-<p>With that in mind, this design exercise will be both about driving at a novel technical achievement as well as documenting the design tools I have accrued the last two years working with biomass energy in rural Southeast Asia.</p>
+<p>I'm going to be working hard to end this project with documentation that enables the mechanics, cooks, and business-people in developing countries to use rice husk in a new way.</p>
 
 <p>Tomorrow, I'll introduce in more detail the purpose of improved stoves in Cambodia and why this project is focused on a "Boiler".</p>

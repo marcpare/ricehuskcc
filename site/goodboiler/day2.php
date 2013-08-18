@@ -8,7 +8,7 @@
 
 <p>Kent Good, a missionary and avid stove tinkerer, had fabricated a well-known  stove design from the Philippines and asked his neighbors to test the device for a few months.</p>
 
-<p>His neighbor, a handy and kind Cambodian man, agreed. The stove used a fuel that could be acquired for free just down the road. The stove produced an attractive blue flame. It found its role in the home boiling large kettles of water for drinking and for tea.</p>
+<p>His neighbor, a handy and kind Cambodian man, agreed. The rice husk that the stove used for fuel that could be acquired for free just down the road. The stove produced an attractive blue flame. It found its role in the home boiling large kettles of water for drinking and for tea.</p>
 
 <p>Unfortunately, after some months of usage, a fist-sized hole appeared in the zinc roof above the stove. None of the other stoves used in the household caused such a result. There was no doubt that this hole was cause by the combustion products of the rice hull.</p>
 
