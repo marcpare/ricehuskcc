@@ -39,7 +39,7 @@ function head(){?>
 
 function content_start(){?>
   <div class="container">
-    <div class="pure-g">
+    <div class="">
 <?php
 }
 
@@ -50,14 +50,13 @@ function content_end(){?>
 }
 
 function left_bar(){?>
-  <div class="pure-u-1-4">
+  <div class="left-bar">
     <div class="col">
     
-    <h1 class="logo">ricehusk.cc</h1>
+    <img src="<?=route_img("logo.png")?>"></img>
+    <!--<h1 class="logo">ricehusk.cc</h1>-->
     <img width="200" src="<?=route_img("rh.png")?>"></img>
     <p>Open Source design of clean energy from rice husk</p>
-    
-    <p class="callout">Currently running a 30-day design project for a new class of rice husk device.</p>
     
     <ul>
       <li><a href="/<?=WEB_ROOT?>">home</a></li>
@@ -88,7 +87,7 @@ function right_bar(){?>
 }
 
 function center_start(){?>
-  <div class="pure-u-3-4">
+  <div class="center">
     <div class="col">
 <?php
 }

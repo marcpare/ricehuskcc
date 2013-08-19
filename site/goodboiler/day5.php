@@ -1,21 +1,28 @@
-Rest
+<h2>Day 5: Rest, says William James</h2>
+<h3 class="date">August 18, 2013</h3>
 
-Invention and design requires rest.
+<?php img_stretched("williamjamesresting.png") ?>
+<p class="caption">William James just sitting and listening.</p>
 
-You've got to get out in the world. Cook things. Observe nature. Interact with strange people.
+<p>Creation requires rest.</p>
 
-Don't worry, your subconscious will rearrange things in the background, and you'll find yourself full of solutions the next day.
+<p>Every seven days during this design log is dedicated to getting out in the world. Cooking things. Observing nature. Interacting with strange people.</p>
 
-Act with the confidence that you'll find the solution, and you will. It's only a matter of time.
+<p>It's not a waste of time, the subconscious rearranges things in the background, and providing a deep well of solutions the next day.</p>
 
-More important is to realize that you're a fountainhead of ideas, rather than a solver of specific problems.
+<p>Don't succumb to the expectation to work frantically. This is for the people that imitate success, not for those that have experienced it. You are a fountainhead of solutions, rather than a tool for specific situations.</p>
 
-"If, namely, we wish our trains of ideation and volition to be copious and varied and effective, we must form the habit of freeing them from the inhibitive influence of reflection upon them, of egoistic preoccuptation about their results."
+<p>William James says it better&mdash;</p>
 
-"_Unclamp_, in a word, your intellectual and practical machinery, and let it run free; and the service it will do you will be twice as good."
+<blockquote>
+  <p>If, namely, we wish our trains of ideation and volition to be copious and varied and effective, we must form the habit of freeing them from the inhibitive influence of reflection upon them, of egoistic preoccuptation about their results.</p>
+  
+  <p>...</p>
+  
+  <p>Say to yourself, 'I won't waste another minute on this miserable thing, and I don't care an iota whether I succeed or not.' Say this sincerely, and feel it; and go out and play, or go to bed and sleep, and I am sure the results next day will encourage you to use the method permanently.</p>
+</blockquote>
 
-"Who are the [scholars] who do recite well? Often those who are most indifferent. _Their_ ideas reel themselves out of their memory of their own accord."
+<p>I think Mariela and I are going to go to the beach before Fall catches up with Seattle.</p>
 
-"Say to yourself, 'I won't waste another minute on this miserable thing, and I don't care an iota whether I succeed or not.' Say this sincerely, and feel it; and go out and play, or go to bed and sleep, and I am sure the results next day will encourage you to use the method permanently."
-
-I think Mariela and I are going to go to the beach before Fall catches up with Seattle.
+<h3>Image Attributions</h3>
+<p><a href="http://en.wikipedia.org/wiki/File:WilliamJames_JosiahRoyce_ca1910_Harvard.png">Wikimedia Commons</a></p>  

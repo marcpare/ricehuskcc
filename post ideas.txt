@@ -1,4 +1,24 @@
 
+Big Problems with Secondary Air in Belonio Burners
+---------------------------------------------------
+
+- We see huge changes in secondary air from small changes in dimensions
+- Why? What can be done?
+
+- FURTHER: the reaction time of CO. The diffusion burners can't burn up the CO? (very unlikely there is enough residence time.)
+
+
+Sizing of Combustion
+--------------------
+
+Don't want to make it too small, losses from water will dominate, and you'll never get to a boil. (pull from Jeter charts to approximate the amount.)
+
+
+
+
+
+
+
 At the bottom of the post, I'll share a list of materials and tools that are useful for prototyping. These materials are low cost, easy to fabricate, and/or are useful for stove building. You can buy this stuff at the store or find it in the wild as Obtainium.
 
 Materials and Tools useful for Prototyping
