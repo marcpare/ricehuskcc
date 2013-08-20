@@ -27,6 +27,7 @@
   <li><a href="day3">Day 3: You Can't Burn Water</a></li>
   <li><a href="day4">Day 4: Build It Now</a></li>
   <li><a href="day5">Day 5: Rest, says William James</a></li>
+  <li><a href="day6">Day 6: Three Dimensional Scaling Factors</a></li>
 </ul>
 
 <?php 
