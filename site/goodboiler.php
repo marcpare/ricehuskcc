@@ -10,6 +10,7 @@
 ?>
 
   <h1><span class="good-boiler-logo">Good Boiler</span> Design Log</h1>    
+  
   <?php include "./goodboiler/{$day}.php"; ?>
 
 <?php 

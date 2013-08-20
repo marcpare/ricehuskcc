@@ -1,5 +1,12 @@
-<h2>Day 6: Three Dimensional Scaling Factors</h2>
-<h3 class="date">August 19, 2013</h3>
+<p class="date">AUGUST 19, 2013</p>
+
+<!--  ∙  -->
+
+<div class="days">
+<p><span class="days-day">DAY</span> 1 2 3 4 5 6 7 8 9 <span class="callout">10</span> 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30</p>
+</div>
+
+<h2>Three Dimensional Scaling Factors</h2>
 
 <p>On <a href="day3">Day 3</a>, I mentioned that it wasn't possible to just reduce the size of a stove and expect it to work. Here's what we observed when we tried it in Cambodia, not knowing what would happen:</p>
 
@@ -50,11 +57,9 @@
 
 <p>So, what are some possible solutions to the problem of increasing flame height? How do we increase the size of the Cylindrical Gasifier without compromising on an unsafe, dirty flame? We'll come back to these questions before the 30 days are up.</p>
 
+
+<div class="nextprev"><a class="next" href="day6">&rarr; Next: Coming Soon</a><a class="prev" href="day5">&larr; Previous: Rest, Says William James</a></div>
+
 <h3>Image Attributions</h3>
 
 <p><a href="www.bioenergylists.org">Bioenergy Lists</a></p>
-
-
-
-
-
