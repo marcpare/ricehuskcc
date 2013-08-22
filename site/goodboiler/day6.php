@@ -50,9 +50,7 @@
 
 <p><a href="www.bioenergylists.org">Bioenergy Lists</a></p>
 
-<hr>
 
-<p>The <span class="good-boiler-logo">Good Boiler</span> design log is a real time document about things I find interesting as I undertake a real-life design project. I want it to be useful to others. So, please share, copy, and steal parts of it. Send me your feedback about the notes. Get in touch at <a href="mailto:marc@smallredtile.com">marc@smallredtile.com</a>.</p>
 
 
 

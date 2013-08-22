@@ -9,7 +9,7 @@
 ?>
 
   <p>
-  <img width="770" src="<?=route_img("ricehuskbag.jpg")?>"></img>
+  <img width=800 src="<?=route_img("ricehuskbag.jpg")?>"></img>
   </p>
 
   <p class="callout">Currently running a 30-day design project for the <a href="goodboiler"><span class="good-boiler-logo">good boiler</span></a></p>

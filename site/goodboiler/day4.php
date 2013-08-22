@@ -86,9 +86,6 @@ project.</p>
 </li>
 </ul>
 
-<hr>
-
-
 
 
 

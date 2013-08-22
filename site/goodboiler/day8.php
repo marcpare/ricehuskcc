@@ -58,7 +58,7 @@ entry_start(8);
 
 <h3>Aug 21 Trials</h3>
 
-<p>The rice husk has arrived. Going to test it in the same reactor as the last trials. Will add a chimney to increase air flow to combustion zone.</p>
+<p>The rice husk has arrived. Going to test it in the same reactor as the <a href="day7">last trials</a>. Will add a chimney to increase air flow to combustion zone.</p>
 
 <p>Run 1: Rice husk, bottom lit, with small chimney</p>
 
