@@ -1,3 +1,16 @@
+Design Statement
+----------------
+
+
+
+
+Draft
+-----
+
+Stack effect picture, how it works, how you do sizing, practical scenarios.
+
+
+
 Material Cost
 -------------
 How much do you have to work with to get to $5, $10, VISUALIZE it.

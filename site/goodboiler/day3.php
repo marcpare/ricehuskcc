@@ -1,8 +1,6 @@
-
-<h2>Day 3: You Can't Burn Water</h2>
-<h3 class="date">August 16, 2013</h3>
-
-<?php img_stretched("belonio3.png", "Dr. Alexis Belonio, the inventor of the cylindrical rice husk gasifier"); ?>
+<?php
+entry_start(3);
+?>
 
 <p>Yesterday, I noted that focusing on only boiling water simplifies the design of a rice husk cook stove. Here is the argument to back up the statement.</p>
 

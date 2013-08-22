@@ -5,6 +5,7 @@
   content_start();  
   left_bar();  
   center_start();
+  
 ?>
 
 <div style="float:right; margin-left: 20px">
@@ -28,6 +29,8 @@
   <li><a href="day4">Day 4: Build It Now</a></li>
   <li><a href="day5">Day 5: Rest, says William James</a></li>
   <li><a href="day6">Day 6: Three Dimensional Scaling Factors</a></li>
+  <li><a href="day7">Day 7: Proxy Fuels for Prototyping</a></li>
+  <li><a href="day8">Day 8: Safety Third</a></li>
 </ul>
 
 <?php 

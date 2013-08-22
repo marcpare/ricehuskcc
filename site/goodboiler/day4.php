@@ -1,7 +1,4 @@
-<h2>Day 4: Build It Now</h2>
-<h3 class="date">August 17, 2013</h3>
-
-<?php img_stretched("gtalumprototypes.png", "Prototypes made at Georgia Tech from aluminum flashing and coffee cans. They melted after a few runs but taught us what we needed to know."); ?>
+<?php entry_start(4) ?>
 
 <p>I have a confession: I have been prototyping designs since Day 1.
 </p>

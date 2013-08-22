@@ -1,8 +1,4 @@
-<h2>Day 1: Introduction and Inspiration</h2>
-<h3 class="date">August 14, 2013</h3>
-
-<img src="<?=route_img("sunrisebattambang.jpg")?>" class="stretched" alt="Sunrise in Battambang"></img>
-<p class="caption">Sunrise from my room in Battambang. December 2012</p>
+<?php entry_start(1); ?>
 
 <p>In December 2012, two missionaries welcomed me into their homes in Cambodia to see if I could help advance their improved cook stove work in and around Battambang, Cambodia.</p>
 

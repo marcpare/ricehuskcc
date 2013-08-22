@@ -1,18 +1,6 @@
-<p class="date">AUGUST 19, 2013</p>
+<?php entry_start(6); ?>
 
-<!--  ∙  -->
-
-<div class="days">
-<p><span class="days-day">DAY</span> 1 2 3 4 5 6 7 8 9 <span class="callout">10</span> 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30</p>
-</div>
-
-<h2>Three Dimensional Scaling Factors</h2>
-
-<p>On <a href="day3">Day 3</a>, I mentioned that it wasn't possible to just reduce the size of a stove and expect it to work. Here's what we observed when we tried it in Cambodia, not knowing what would happen:</p>
-
-<img src="<?=route_img("day6photo.png")?>"></img>
-
-<p class="caption">Left: Increased diameter Cylindrical Gasifier made in Cambodia. Right: Normal diameter Gasifier made by Dr. Belonio</p>
+<p>On <a href="day3">Day 3</a>, I mentioned that reducing the size of a stove led to unexpected problems. Above is what we observed when we tried it in Cambodia, not knowing what would happen.</p>
 
 <p>The flames from the stove with the increased diameter (200 mm) were significantly taller than from the original 150 mm stove. The difference is not pronounced in the pictures because of the difference in the angle between the pictures, but it is very obvious in person. The 200 mm stove flames are at least double the height of the 150 mm flames.</p>
 
@@ -22,11 +10,9 @@
 
 <p>A friend of mine built a Cylindrical Gasifier out of a 55 gallon drum, that produced a flame more than a meter tall. She had to retreat from the barrel because of the intense heat.</p>
 
+<p>Interestingly, even if you play around with the hole pattern on the burner, the flame shape doesn't change significantly. It is still much taller for the larger diameter gasifiers. You can make the burner completely open, and you will still see it happening.</p>
+
 <p>What is at the root of this difference in flame shape?</p>
-
-<p>Interestingly, even if you play around with the hole pattern on the burner, the flame shape doesn't change significantly. It is still much taller for the larger diameter gasifiers. You can remove all of the holes entirely, and you will still see it happening.</p>
-
-<p>Here is my explanation for why. </p>
 
 <p>The gas coming out of the stove burns when it is mixed with oxygen from the surrounding air.</p>
 
@@ -63,3 +49,16 @@
 <h3>Image Attributions</h3>
 
 <p><a href="www.bioenergylists.org">Bioenergy Lists</a></p>
+
+<hr>
+
+<p>The <span class="good-boiler-logo">Good Boiler</span> design log is a real time document about things I find interesting as I undertake a real-life design project. I want it to be useful to others. So, please share, copy, and steal parts of it. Send me your feedback about the notes. Get in touch at <a href="mailto:marc@smallredtile.com">marc@smallredtile.com</a>.</p>
+
+
+
+
+
+
+
+
+

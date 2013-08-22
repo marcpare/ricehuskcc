@@ -1,8 +1,4 @@
-<h2>Day 5: Rest, says William James</h2>
-<h3 class="date">August 18, 2013</h3>
-
-<?php img_stretched("williamjamesresting.png") ?>
-<p class="caption">William James just sitting and listening.</p>
+<?php entry_start(5); ?>
 
 <p>Creation requires rest.</p>
 

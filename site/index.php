@@ -8,9 +8,11 @@
   center_start();
 ?>
 
+  <p>
   <img width="770" src="<?=route_img("ricehuskbag.jpg")?>"></img>
-  
-  <p class="callout">Currently running a 30-day design project for a new rice husk cooking device, called the <a href="goodboiler"><span class="good-boiler-logo">good boiler</span></a></p>
+  </p>
+
+  <p class="callout">Currently running a 30-day design project for the <a href="goodboiler"><span class="good-boiler-logo">good boiler</span></a></p>
   
   <h2>About</h2>
   <p>Rice husk, the outer shell of a grain of rice, is produced worldwide and generally considered a waste material. The particular physical properties of rice husk do not lend it to many applications.</p>

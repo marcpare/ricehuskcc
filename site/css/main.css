@@ -1,17 +1,26 @@
 body {
-  margin: 10px 20px 50px 20px;
+  margin: 70px 20px 50px 20px;
   font-size: 20px;
   line-height: 1.4em;
   color: #222;
 }
+p {}
+a { color: #2455c4; text-decoration: none; }
+a:hover { color: #222; }
 
-p {
-}
+.container { width: 1040px; margin: 0 auto; }
 
-.logo {
-  font-family: 'Courier New';
-  font-size: 30px;
-}
+.logo {font-family: 'Abel', 'Courier New', monospace; font-size: 30px; margin-bottom: 0; }
+.logo-text { color: #999; font-size: 14px; margin-top: 0; }
+
+h1, h2, h3, h4, h5, h6 { font-family: 'Abel', 'Courier New', monospace; }
+
+.menu { margin: .67em 0; }
+.menu ul { list-style: none; margin: 0; padding: 0; }
+.page-item { display: block; float: left; padding-left: 1.8em; }
+.current-page-parent { padding-left: 0; }
+
+.content { clear: both; }
 
 .callout {
   background: #c8b7b7;
@@ -23,11 +32,12 @@ p {
   padding: 0 15px;
 }
 
-.col img.stretched { width: 100%; }
+img.stretched { width: 100%; }
 
 .caption {
   font-size: 90%;
   text-align: center;
+  color: #999;
 }
 
 .good-boiler-logo {
@@ -47,6 +57,7 @@ p {
 }
 
 .days {
+  text-transform: uppercase;
   color: #6b6b6b;
   font-size: 70%;
 }
@@ -54,7 +65,7 @@ p {
 .date { margin: 0; }
 .days p { margin: 0; }
 
-.days-day { color: #222; }
+.days-day {  }
 
 div.nextprev {
   clear: both;

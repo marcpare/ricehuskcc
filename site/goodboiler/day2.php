@@ -1,7 +1,4 @@
-<h2>Day 2: Product Paradoxes and the Origin of the Boiler Concept</h2>
-<h3 class="date">August 15, 2013</h3>
-
-<?php img_stretched("corrosionincambodia.png", "Examples of the corrosion that brought me to Cambodia"); ?>
+<?php entry_start(2); ?>
 
 <p>My trip in Cambodia last December was prompted by a hole in a roof.
 </p>

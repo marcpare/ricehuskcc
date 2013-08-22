@@ -27,19 +27,35 @@ function head(){?>
 
       <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.1.0/pure-min.css">
       <link href='http://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
       <link rel="stylesheet" type="text/css" href="<?=route_css("main.css")?>">
       
   </head>
 
   <body>
   <?php include './analytics.php'; ?>
+  
+  <div class="container">
+  
+  <!--<img src="<?=route_img("logo.png")?>"></img>-->
+  <h1 class="logo">ricehusk.cc</h1>
+  <p class="logo-text">Open Source design of clean energy from rice husk</p>
+  
+  <img width="140" src="<?=route_img("rh.png")?>"></img>
+  
+  <div class="menu">
+  <ul>
+    <li class="page-item current-page-parent"><a href="/<?=WEB_ROOT?>">home</a></li>
+    <li class="page-item"><a href="<?=URL_ROOT?>goodboiler">design log</a></li>
+    <li class="page-item"><a href="mailto:marc@smallredtile.com">contact email</a></li>
+  </ul>
+  </div>
     
 <?php
 }
 
 function content_start(){?>
-  <div class="container">
-    <div class="">
+    <div class="content">
 <?php
 }
 
@@ -53,26 +69,22 @@ function left_bar(){?>
   <div class="left-bar">
     <div class="col">
     
-    <img src="<?=route_img("logo.png")?>"></img>
-    <!--<h1 class="logo">ricehusk.cc</h1>-->
-    <img width="200" src="<?=route_img("rh.png")?>"></img>
-    <p>Open Source design of clean energy from rice husk</p>
-    
+    <!--
     <ul>
       <li><a href="/<?=WEB_ROOT?>">home</a></li>
       <li><a href="<?=URL_ROOT?>goodboiler"><span class="good-boiler-logo">Good Boiler</span>  design</a></li>
-      <!--
       <li><a href="">gasifier design tables</a></li>
       <li><a href="">physical properties</a></li>
-      -->
     </ul>
+    -->
     
+    <!--
     <h3>contributing</h3>
     
     <p>Contact me via email if you would like to contribute</p>
     
     <p><a href="mailto:marc@smallredtile.com">marc@smallredtile.com</a></p>
-    
+    -->
     
     
     
@@ -88,7 +100,7 @@ function right_bar(){?>
 
 function center_start(){?>
   <div class="center">
-    <div class="col">
+    <div class="">
 <?php
 }
 
