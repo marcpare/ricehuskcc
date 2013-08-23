@@ -19,6 +19,7 @@ function entry_start($index){
     "Three Dimensional Scaling Factors",
     "Proxy Fuels for Prototyping",
     "Safety Third",
+    "Make It Smaller &mdash; Initial Sizing Estimates"
   );
 
   $captions = array(
@@ -29,7 +30,8 @@ function entry_start($index){
     "William James just sitting and listening.",
     "Left: Increased diameter Cylindrical Gasifier made in Cambodia. Right: Normal diameter Gasifier made by Dr. Belonio",
     "It's easy to find testing fuel in the Mekong Delta",
-    "Knock knock"
+    "Knock knock",
+    "A single-crystal silicon sphere that weighs exactly 1 kilogram"
   );
   
   $dates = array(
@@ -40,7 +42,8 @@ function entry_start($index){
     "August 18",
     "August 19",
     "August 20",
-    "August 21"
+    "August 21",
+    "August 22"
   );
   
 ?>  

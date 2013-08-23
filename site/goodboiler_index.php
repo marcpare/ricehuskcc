@@ -31,6 +31,7 @@
   <li><a href="day6">Day 6: Three Dimensional Scaling Factors</a></li>
   <li><a href="day7">Day 7: Proxy Fuels for Prototyping</a></li>
   <li><a href="day8">Day 8: Safety Third</a></li>
+  <li><a href="day9">Day 9: Make It Smaller &mdash; Initial Sizing Estimates</a></li>
 </ul>
 
 <?php 

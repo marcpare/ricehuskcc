@@ -1,5 +1,12 @@
 <?php
 
+function footnote_link($index, $name){
+  $labels = array(" ①", "②", "③", "④", "⑤", "⑥", "⑦", "⑧", "⑨", "⑩");
+  $label = $labels[$index-1];
+  echo "<a href=\"#{$name}\">{$label}</a>";
+  
+}
+
 function img($src, $class){
   return "<img src=\"{$src}\" class=\"{$class}\"></img>";
 }
