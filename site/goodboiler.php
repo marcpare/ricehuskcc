@@ -19,7 +19,8 @@ function entry_start($index){
     "Three Dimensional Scaling Factors",
     "Proxy Fuels for Prototyping",
     "Safety Third",
-    "Make It Smaller &mdash; Initial Sizing Estimates"
+    "Make It Smaller &mdash; Initial Sizing Estimates",
+    "From Cloud of Ideas to Concept"
   );
 
   $captions = array(
@@ -31,7 +32,8 @@ function entry_start($index){
     "Left: Increased diameter Cylindrical Gasifier made in Cambodia. Right: Normal diameter Gasifier made by Dr. Belonio",
     "It's easy to find testing fuel in the Mekong Delta",
     "Knock knock",
-    "A single-crystal silicon sphere that weighs exactly 1 kilogram"
+    "A single-crystal silicon sphere that weighs exactly 1 kilogram",
+    "Good Boiler concept schematic"
   );
   
   $dates = array(
@@ -43,7 +45,8 @@ function entry_start($index){
     "August 19",
     "August 20",
     "August 21",
-    "August 22"
+    "August 22",
+    "August 23"
   );
   
 ?>  

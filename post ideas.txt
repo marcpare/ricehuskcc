@@ -1,3 +1,20 @@
+Contributing
+------------
+
+- Anyone that would be interested in building the design? (i.e. they're near rice husk, working with a community)
+
+- How to improve fabrication quality (keep in mind we're targeting rural mechanics that have hand tool, welders, and lots of time)
+
+- Are you in and around Seattle? Would like to fabricate prototypes sometime in the near future.
+
+- Eventually, photographer to do the art/science part with the Pyrex.
+
+Get in touch!
+
+
+
+
+
 Design Tables for Rice Husk Stoves
 ----------------------------------
 
@@ -15,6 +32,8 @@ How do you choose?
 Some notes from Notes on the Synthesis of Form ?
 
 Outline the ones that I think are worthwhile.
+
+**Big grid of configurations. 3D iso views (or just 2d schematics). Check them off as I go**
 
 
 Design Statement

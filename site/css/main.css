@@ -81,3 +81,12 @@ div.nextprev {
   position: absolute;
   left: 0;
 }
+
+.hero {
+
+}
+
+.hero td {
+  vertical-align: top;
+  padding-right: 40px;
+}
