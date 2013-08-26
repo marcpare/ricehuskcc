@@ -1,6 +1,3 @@
-<?php
-entry_start(9);
-?>
 
 <p>How much water can you boil with a given amount of rice husk?</p>
 

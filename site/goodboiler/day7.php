@@ -1,8 +1,4 @@
 
-<?php
-entry_start(7);
-?>
-
 <p>My 50 lb bag of rice husk is in the mail.</p> 
 
 <p>In Vietnam or Cambodia, you just have to go down the road to get as big of a bag of rice husk that you can carry. The mill will give it to you for free, as they have to pay to get it hauled away.</p>
@@ -13,7 +9,7 @@ entry_start(7);
 
 <p>In earlier tests, I used wood chips as fuel. Wood chips will pack together relatively tightly, restricting air flow in a similar way to rice husk. They do have a much higher energy density, so it is easier to burn wood chips. This is a good testing fuel to make sure you've got the basics of your design working.</p>
 
-<p>When you're ready to move on, you need something more challenge to burn. I ran into a bag of grass seeds, which looked like a promising proxy fuel for rice husk. I couldn't find any combustion data on grass seed (I suppose most people plant it, rather than burn it). The grass seed are very similar in particle size and shape to rice husk, so they will give a good indicator of air flow in the device.</p>
+<p>When you're ready to move on, you need something more challenging to burn. I ran into a bag of grass seeds, which looked like a promising proxy fuel for rice husk. I couldn't find any combustion data on grass seed (I suppose most people plant it, rather than burn it). The grass seed are very similar in particle size and shape to rice husk, so they will give a good indicator of air flow in the device.</p>
 
 <?= img_stretched("day7/seedandhusk.jpg") ?>
 <p class="caption">Left: rice husk. Right: grass seed.</p>

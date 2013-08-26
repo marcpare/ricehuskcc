@@ -1,4 +1,4 @@
-<?php entry_start(2); ?>
+
 
 <p>My trip in Cambodia last December was prompted by a hole in a roof.
 </p>

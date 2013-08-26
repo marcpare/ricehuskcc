@@ -1,4 +1,3 @@
-<?php entry_start(5); ?>
 
 <p>Creation requires rest.</p>
 

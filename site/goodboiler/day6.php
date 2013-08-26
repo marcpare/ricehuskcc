@@ -1,4 +1,3 @@
-<?php entry_start(6); ?>
 
 <p>On <a href="day3">Day 3</a>, I mentioned that reducing the size of a stove led to unexpected problems. Above is what we observed when we tried it in Cambodia, not knowing what would happen.</p>
 
@@ -42,9 +41,6 @@
 <p>Flames are three dimensional. Awesome.</p>
 
 <p>So, what are some possible solutions to the problem of increasing flame height? How do we increase the size of the Cylindrical Gasifier without compromising on an unsafe, dirty flame? We'll come back to these questions before the 30 days are up.</p>
-
-
-<div class="nextprev"><a class="next" href="day6">&rarr; Next: Coming Soon</a><a class="prev" href="day5">&larr; Previous: Rest, Says William James</a></div>
 
 <h3>Image Attributions</h3>
 

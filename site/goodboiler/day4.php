@@ -1,5 +1,3 @@
-<?php entry_start(4) ?>
-
 <p>I have a confession: I have been prototyping designs since Day 1.
 </p>
 <p>I promised to detail some difficulties with Cylindrical Gasifier design today, but I think it's more important to share the reasoning behind such early prototyping before getting on to the promised topic.</p>

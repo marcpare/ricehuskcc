@@ -1,3 +1,49 @@
+
+Art project idea: Pyrex lantern stove.
+
+Science project idea: Pyrex cylinder, pyrex sheet in middle, photo the entire run, explain with interactive web page.
+
+Prototype: Half-cylinder wire mesh. How big of a windscreen?
+
+
+
+Variability 2
+-------------
+
+Run 10-30 tests of batch combustor.
+Plot them all.
+Calculate the variance, other params? (look at Baldwin's variance charts. Get feedback from engineers like Colton...)
+
+
+Variability
+-----------
+
+In 2110, teams would test their machines again and again until they worked. After 30 tries, it worked 7 times. 
+
+If you ask them about it, they would say, "It's worked seven times."
+
+In reality, it works 23% of the time (less than 1 out of 4 times)
+
+Variability is also crucial when you think about cooking. Food often isn't cooked at some average temperature. You'll burn it if it gets too hot. Too much variability in power output of the stove risks making it a worthless product.
+
+Efficiency...
+
+
+---
+
+Day 17: "Tell me what you don't like" to the people that have replied to emails. -------
+
+---
+
+Sizing Tool
+-----------
+
+xkcd guy standing next to gasifier.
+As you twiddle sizing params "5 cups of water", the size of the gasifier next to the guy scales up and down.
+
+calculates in terms of cooked quantities "3 cups beans" "100 fried bananas" "20 cups of tea"
+
+
 Contributing
 ------------
 
@@ -40,8 +86,6 @@ Design Statement
 ----------------
 
 
-
-
 Draft
 -----
 
@@ -61,7 +105,7 @@ Big Problems with Secondary Air in Belonio Burners
 - We see huge changes in secondary air from small changes in dimensions
 - Why? What can be done?
 
-- FURTHER: the reaction time of CO. The diffusion burners can't burn up the CO? (very unlikely there is enough residence time.)
+- FURTHER: the reaction time of CO. The diffusion burners CANT burn up the CO? (very unlikely there is enough residence time.)
 
 
 Sizing of Combustion

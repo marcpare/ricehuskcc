@@ -31,8 +31,6 @@
 
 <?php 
   center_end();
-  right_bar();
-
   content_end();
   foot();
 ?>

@@ -1,8 +1,3 @@
-<?php
-entry_start(10);
-?>
-
-
 <p>
   <img src="<?=route_img("day10/conceptlined.png")?>"></img>
 </p>
@@ -92,7 +87,7 @@ entry_start(10);
 
 <p>I'll aim at getting the 1/2 Liter size working, since it's easier and cheaper to build the small size. If we can pull it off, it will be a proof of concept that motivates work by me or others to scale up the device.</p>
 
-<p>Remember, this effort is about widespread collaboration, not high-ego design by an individual.</p>
+<p>The goal of this effort is widespread collaboration, not high-ego design by an individual.</p>
 
 <p>Up next is building a boiling test rig to see how much water can be boiled in order to verify my sizing calculation.</p>
 

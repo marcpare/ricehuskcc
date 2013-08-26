@@ -7,7 +7,11 @@ function footnote_link($index, $name){
   
 }
 
-function img($src, $class){
+function fn_img($filename){
+  return img(route_img($filename));
+}
+
+function img($src, $class=""){
   return "<img src=\"{$src}\" class=\"{$class}\"></img>";
 }
 
@@ -31,6 +35,9 @@ function head(){?>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="description" content="">
       <meta name="author" content="">
+      
+      <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+      <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
       <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.1.0/pure-min.css">
       <link href='http://fonts.googleapis.com/css?family=Leckerli+One' rel='stylesheet' type='text/css'>
@@ -100,8 +107,13 @@ function left_bar(){?>
 <?php
 }
 
-function right_bar(){?>
-  
+function right_bar_start(){?>
+  <div class="right-bar">
+<?php
+}
+
+function right_bar_end(){?>
+  </div>
 <?php
 }
 

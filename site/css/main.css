@@ -13,7 +13,7 @@ a:hover { color: #222; }
 .logo {font-family: 'Abel', 'Courier New', monospace; font-size: 30px; margin-bottom: 0; }
 .logo-text { color: #999; font-size: 14px; margin-top: 0; }
 
-h1, h2, h3, h4, h5, h6 { font-family: 'Abel', 'Courier New', monospace; }
+h1, h2, h3 { font-family: 'Abel', 'Courier New', monospace; }
 
 .menu { margin: .67em 0; }
 .menu ul { list-style: none; margin: 0; padding: 0; }
@@ -21,6 +21,17 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Abel', 'Courier New', monospace; }
 .current-page-parent { padding-left: 0; }
 
 .content { clear: both; }
+
+.left-bar { float: left; width: 240px; }
+.center { float: left; width: 800px;}
+.right-bar { float: left; width: 200px; }
+
+.right-bar {
+  padding-left: 40px;
+  font-size: 70%;
+}
+
+.right-bar h4 { font-weight: normal; }
 
 .callout {
   background: #c8b7b7;
@@ -45,10 +56,8 @@ img.stretched { width: 100%; }
   text-transform: capitalize;
 }
 
-.centered { text-align: center }
-
-.left-bar { float: left; width: 240px; }
-.center { float: left; width: 800px;}
+p.centered { text-align: center }
+table.centered {margin: 0 auto; }
 
 .date {
   color: #6b6b6b;
@@ -65,28 +74,10 @@ img.stretched { width: 100%; }
 .date { margin: 0; }
 .days p { margin: 0; }
 
-.days-day {  }
 
-div.nextprev {
-  clear: both;
-  position: relative;
-  height: 30px;
-}
+.hero td { vertical-align: top; padding-right: 40px; }
 
-.nextprev .next {
-  position: absolute;
-  right: 0;
-}
-.nextprev .prev {
-  position: absolute;
-  left: 0;
-}
+.nextprev { margin-bottom: 1em; }
+.nextprev .next, .nextprev .prev { float: left; width: 50%; min-height: 10px; }
+.nextprev .next { text-align: right; }
 
-.hero {
-
-}
-
-.hero td {
-  vertical-align: top;
-  padding-right: 40px;
-}

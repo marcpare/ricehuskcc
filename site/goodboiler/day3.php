@@ -1,6 +1,4 @@
-<?php
-entry_start(3);
-?>
+
 
 <p>Yesterday, I noted that focusing on only boiling water simplifies the design of a rice husk cook stove. Here is the argument to back up the statement.</p>
 

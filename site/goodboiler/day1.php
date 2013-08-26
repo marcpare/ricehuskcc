@@ -1,4 +1,4 @@
-<?php entry_start(1); ?>
+
 
 <p>In December 2012, two missionaries welcomed me into their homes in Cambodia to see if I could help advance their improved cook stove work in and around Battambang, Cambodia.</p>
 

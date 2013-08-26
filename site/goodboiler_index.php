@@ -1,5 +1,6 @@
 <?php 
   include './master.inc.php'; 
+  include './goodboiler/data.inc.php'; 
 
   head();
   content_start();  
@@ -23,20 +24,17 @@
 <p>Everything here is Open Source and copying is highly encouraged. Please do contact me if you're interested. I would like to hear your thoughts and ideas. If this work inspires you to build something, send me a picture.</p>
 
 <ul>
-  <li><a href="day1">Day 1: Introduction and Inspiration</a></li>
-  <li><a href="day2">Day 2: Product Paradoxes and the Origin of the Boiler
-  <li><a href="day3">Day 3: You Can't Burn Water</a></li>
-  <li><a href="day4">Day 4: Build It Now</a></li>
-  <li><a href="day5">Day 5: Rest, says William James</a></li>
-  <li><a href="day6">Day 6: Three Dimensional Scaling Factors</a></li>
-  <li><a href="day7">Day 7: Proxy Fuels for Prototyping</a></li>
-  <li><a href="day8">Day 8: Safety Third</a></li>
-  <li><a href="day9">Day 9: Make It Smaller &mdash; Initial Sizing Estimates</a></li>
+  <?php
+  for($i=0; $i < count($titles); $i++){
+    $day_index = $i+1;
+    $title = 'Day '.$day_index.': '.$titles[$i];
+    echo "<li><a href=\"day{$day_index}\">{$title}</a></li>";
+  }
+  ?>  
 </ul>
 
 <?php 
   center_end();
-  right_bar();
   content_end();
   foot();
 ?>

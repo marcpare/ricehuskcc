@@ -1,8 +1,4 @@
 
-<?php
-entry_start(8);
-?>
-
 <p>The rice husk has arrived. The test results using real fuel are awesome and possibly groundbreaking.</p>
 
 <p>We nearly didn't get to run the tests.</p>
