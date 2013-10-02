@@ -12,7 +12,10 @@ $titles = array(
   "Make It Smaller &mdash; Initial Sizing Estimates",
   "From Cloud of Ideas to Concept",
   "Reliability Under Variation",
-  "Resting Ben Franklin Style"
+  "Resting Ben Franklin Style",
+  "Obtainium and Portable Rigs",
+  "Notes on Moisture Content",
+  "Delays"
 );
 
 $captions = array(
@@ -27,7 +30,10 @@ $captions = array(
   "A single-crystal silicon sphere that weighs exactly 1 kilogram",
   "Good Boiler concept schematic",
   "Combustion analyzer and IR gun to debug Cylindrical Gasifier burners in Battambang",
-  "Ben Franklin playing chess"
+  "Ben Franklin playing chess",
+  "Sunset in Seattle while testing today",
+  "Keylwerth-chart for finding wood moisture content. From FAO.",
+  "Currently, in Seattle..."
 );
 
 $dates = array(
@@ -42,5 +48,8 @@ $dates = array(
   "August 22",
   "August 23",
   "August 24",
-  "August 25"
+  "August 25",
+  "August 26",
+  "August 27",
+  "October 1"
 );

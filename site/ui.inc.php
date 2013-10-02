@@ -7,6 +7,7 @@ function footnote_link($index, $name){
   
 }
 
+function img_fn($filename){ return fn_img($filename); }
 function fn_img($filename){
   return img(route_img($filename));
 }
