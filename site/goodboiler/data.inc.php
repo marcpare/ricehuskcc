@@ -15,7 +15,8 @@ $titles = array(
   "Resting Ben Franklin Style",
   "Obtainium and Portable Rigs",
   "Notes on Moisture Content",
-  "Delays"
+  "Delays",
+  "Manufacturing Luck: The Basics of Concept Exploration"
 );
 
 $captions = array(
@@ -33,23 +34,25 @@ $captions = array(
   "Ben Franklin playing chess",
   "Sunset in Seattle while testing today",
   "Keylwerth-chart for finding wood moisture content. From FAO.",
-  "Currently, in Seattle..."
+  "Currently, in Seattle...",
+  "Edison's many lightbulb prototypes"
 );
 
 $dates = array(
-  "August 14",
-  "August 15",
-  "August 16",
-  "August 17",
-  "August 18",
-  "August 19",
-  "August 20",
-  "August 21",
-  "August 22",
-  "August 23",
-  "August 24",
-  "August 25",
-  "August 26",
-  "August 27",
-  "October 1"
+  "August 14, 2013",
+  "August 15, 2013",
+  "August 16, 2013",
+  "August 17, 2013",
+  "August 18, 2013",
+  "August 19, 2013",
+  "August 20, 2013",
+  "August 21, 2013",
+  "August 22, 2013",
+  "August 23, 2013",
+  "August 24, 2013",
+  "August 25, 2013",
+  "August 26, 2013",
+  "August 27, 2013",
+  "October 1, 2013",
+  "February 15, 2014"
 );

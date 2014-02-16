@@ -1,0 +1,29 @@
+
+Day 21
+===
+
+Today we take a break from running through test results to learn about prototyping technique.
+
+It is easy to get the impression that a rapid prototyping process is necessarily sloppy. This is not the least bit true.
+
+"Rapid prototyping" means that you try optimize _learning_ speed. Sometimes you can do this with sloppy prototypes. But, often, you need to invest some time on quality building in order to actually learn something from the result.
+
+We saw this happen at Georgia Tech. The story of Isaac improving the build quality and the stove suddenly working.
+
+
+A Clean Solder
+
+All the things you have to keep in mind
+
+- what flux
+- what metals
+- where's the heat?
+- the flange, the shape of the join
+- how to cut the hole with enough tolerance
+- what dimensions are easy to find in the store
+- the soldering technique
+
+
+
+the tendency of armchair designers to neglect the details, which are the actual drivers of good design.
+

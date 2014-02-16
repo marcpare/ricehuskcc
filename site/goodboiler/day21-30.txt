@@ -1,0 +1,38 @@
+Day 22:
+
+Six tests. Looking for stove to burn through entire batch of fuel.
+
+(1)
+Show diagram on right side in table.
+Maybe pictures in center column?
+Left column:
+
+Part of the prototype used JB Weld, but we found it caught fire.
+
+(2) 
+Complete burn. Notice flames on the inside. This surprising (and seems to work well)
+
+(3)
+Does it work removing the inner basket? No, only an inner ring of fuel is burned.
+
+(4)
+Use a tighter outside diameter. Also burns 100%
+
+(5)
+Repeat configuration in (4). It works.
+
+(6)
+Repeat configuration in (4). It works.
+
+Summary:
+
+
+
+Day 23
+Day 24
+Day 25
+Day 26
+Day 27
+Day 28
+Day 29 
+Day 30 It works! Video. 

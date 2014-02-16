@@ -81,3 +81,4 @@ table.centered {margin: 0 auto; }
 .nextprev .next, .nextprev .prev { float: left; width: 50%; min-height: 10px; }
 .nextprev .next { text-align: right; }
 
+.table-schematic td { vertical-align: top; padding-right: 40px; }

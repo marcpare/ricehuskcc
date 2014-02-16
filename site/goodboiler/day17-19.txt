@@ -1,0 +1,264 @@
+Day 17
+===
+
+Modular testing rigs for improved cook stoves
+
+For exploration of the Good Boiler concepts, we realize this prototyping process the following way:
+
+* Design and build a modular testing rig
+* Use galvanized steel ducting, wire mesh, and tin cans to build stove parts – these last long enough to vet the design
+* Use rivets and solder to fasten (and unfasten) components together quickly
+
+Here's a shot of all the parts I put together. You'll notice some interesting ones...
+
+
+
+
+Day 18
+===
+
+On Day 16 and Day 17, I outlined the general approach to exploring design concepts. 
+
+For the following few days, I'll be jumping right into test results. 
+
+Jan 11 Trials
+
+Intro – Three trials of a configuration that seems like it will work (not very scientific!)
+
+Three columns:
+Text, Schematic, Pics
+
+
+Trials (1), (2), (3)
+
+Every trial burns completely through the rice husk.
+
+The wind causes a significant amount of smoke. This is partly because the build quality of the prototype is quite low. 
+
+Summary – the amount of smoke seems higher than necessary. Overall, very encouraging that the fuel burns all the way through.
+
+
+Day 18
+===
+
+(1) A dud trial. Had used JB Weld to seal a joint, but it caught fire.
+
+(2) A wider outer cylinder. Notice there are flames in the outer ring (unexpected).
+
+(3) What if we use no basket? Poor results. Air does not penetrate past first cm of fuel around center column.
+
+(4) Tight outer cylinder. Seeing curls of smoke out of top regularly. Burns 100% of fuel.
+
+(5) Repeat (2) 100% fuel burned. The flames in outer ring seem to prevent smoke.
+(6) Repeat (5), same results
+
+Summary – the inner ring of flames was surprising. The results are better than expected. It's an example of manufactured luck!
+
+Day 19
+===
+
+Boil a bit of water in the Angel food cake pan
+
+Day 20
+===
+
+The tighter water reservoir.
+
+Calculated eff?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here's the grid of all the configurations that I think are worth exploring:
+
+----
+|  |
+----
+
+The following highlighted ones are the ones that I am most curious about:
+
+...
+
+Part of this curiosity comes from the fact that I found a angel food cake pan at the local thrift store, which will make building prototypes very easy.
+
+(picture of cake pan chimney)
+
+
+
+
+
+
+
+
+
+
+
+
+The next step after the conceptual design presented on Day 10 is to explore the space of possibly useful configurations.
+
+What does this mean exactly?
+
+There are certain parameters in the conceptual design that we can't calculate on paper.
+
+
+
+The target for this stage is to reliably light and burn a batch of rice husk all the way through.
+
+
+
+
+
+Presentation of batch of test results
+----
+
+The last X days, I've been running a series of trials to understand and implement the conceptual design presented on Day 10.
+
+As is normally the case with stove testing, not everything went according to plan. In particular, we encountered fuel moisture issues that trashed over half the trials.
+
+My goal is to boil 1/2 Liter of water with a convenient batch of rice husk.
+
+I am exploring the space of possible combustion chamber designs so that when it comes later in the process of design, I will have options. For example, when you're trying to minimize material, it's better to have a short, fat reactor than a tall, skinny one. (up to a certain point)
+
+I may find that I need to dial up the power of the reactor to get repeatable boiling performance. It is quite common that stoves performance at high efficiency during one run, then low efficiency during another. Since this is a batch stove, the fuel chamber would have to be sized for the low efficiency case.
+
+**Corrosion** encountered in aluminum can used as chimney. Uncertain whether this is because of high temperature or pyrolysis products of rice husk, Swapping to thicker gauge tin can to monitor its lifetime. Kelly Kettles, which are made of aluminum, last many years using wood as fuel. Quite a few videos show smokey operation with big flames. That leads me to believe there is some particularly corrosive characteristic of the rice husk that must be considered.
+
+So far, the initial configuration that was able to be repeated X times, failed Y times.
+
+This has prevented exploring further geometries for the moment while the issue is sorted out.
+
+
+
+Concept Exploration
+===
+
+The next step after the conceptual design presented on Day 10 is to explore the space of possibly useful configurations.
+
+The target for this stage is to reliably light and burn a batch of rice husk all the way through.
+
+On paper, quite a few possible configurations might work. Here is an initial sketch of the ones that I think will be valuable to try.
+
+[grid of different diameters and configs]
+
+Trials:
+
+- 3 trials of hockey puck stove
+- None of them seem to get going
+
+- The taller hockey puck. Show the inner burn ring.
+
+Previously, this configuration burned 100% of its fuel. However, it appears to be failing to repeat this result.
+
+The taller configuration illustrates the challenge of rice husk combustion quite well. As the bed of the fuel increases in height, it further resists air flow. You can only get combustion air to penetrate so far into a bed of rice hull.
+
+With many other promising avenues, we'll leave this one to the side for now. 
+
+
+Concept Exploration II
+===
+
+Small Basket Trials
+---
+
+I noticed in previous tests that getting air to the outside portion of the batch of rice husk is tough. So, we stand off the fuel using a wire mesh. Hopefully, that will result in an air flow pattern something like this:
+
+[diagram of stream lines]
+
+
+Results
+---
+
+Pics.
+
+(1), (2), (3)
+
+Burn 100% of rice hull.
+
+A bit of smoke, more when there's wind.
+
+My prototype was pretty sloppy, and I think it'll be possible to reduce smoke by tightening the gaps between the cylinders.
+
+There is also too much flame licking around the base of the stove. It's hard to tell exactly what's going on here.
+
+
+Concept Exploration III
+===
+
+The test results are a great demonstration. Here's the set up.
+
+I decided to expand the outer diameter of the stove tested yesterday, mostly because it was a standard size of ducting and would be easier to build.
+
+It really depends on the quantities.
+
+We weren't disappointed by the results. Here are some side-by-side pictures.
+
+(do I have a pic of the flame licking out?)
+
+And a schematic to illustrate the key effect:
+
+(flames inside!!)
+
+There are flames inside the reactor! It's a sort of mantle of flame outside the inner basket of rice husk.
+
+There is noticeably less smoke compared to the tighter outer diameter case.
+
+Predicting Air Flow in Stoves
+===
+
+** Show drawings in notebooks vs. pictures vs. actual results **
+
+Air flow is notoriously difficult to predict in improved cook stoves. Ben Franklin had trouble with it in the famous "Franklin Stove", under certain conditions, the stove wouldn't have sufficient draft, and it would fill a room with smoke.
+
+We had a really tense white-boarding session early on during the rice husk project there. I had drawn three configurations of stoves to test and sketched the stream lines of air flow. One of the other engineers in the room look confused, he walked up to the board and drew one of my streamlines in the opposite direction.
+
+I couldn't come up with a concrete reason why it was one way or the other. 
+
+I thought that eventually we should be able to predict air flow in stoves easily on paper. However, I've founds that it's really almost impossible. Here's an illustration of why.
+
+If I increase the gap G in the diagrammed stove, what will happen? Will it be...
+
+(1) Reducing resistance to air flow in gap G, allowing more air into the reactor, speeding up the combustion reaction (like blowing on a fire)
+
+or..
+
+(2) Reducing resistance to air flow in gap G, allowing more _cool outside air_ into the reactor, _slowing down_ the chemical reaction (thermal drag)
+
+Neither, in fact! 
+
+Here's a close up of the last stove trials.
+
+What appears to be going on is that the outer cylinder acts as a chimney, pulling a certain amount of the pyrolysis gas out from the inner reactor. There's air available here to burn it. 
+
+I thought the air would flow something like this, ...
+
+But, in reality, it does something like this...
+
+How would you predict this without testing?
+
+
+
+
+
+
+
+
+

@@ -38,7 +38,7 @@
   <h1><span class="good-boiler-logo">Good Boiler</span> Design Log</h1>    
   
   <div class="days">
-  <p><span class="days-day">DAY</span> <?=$day_index?> ∙ <?=$dates[$day_index-1]?>, 2013</p>
+  <p><span class="days-day">DAY</span> <?=$day_index?> ∙ <?=$dates[$day_index-1]?></p>
   </div>
 
   <h2><?=$titles[$day_index-1]?></h2>

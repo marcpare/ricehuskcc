@@ -8,7 +8,7 @@
 
 <p>There are a number of ways to test for moisture content in biomass fuels. Unfortunately, there are no inexpensive off the off-the-shelf instruments capable of measuring the moisture content of rice husk. In a past project, we hoped to DIY a moisture meter (essentially <a href="http://gardenbot.org/howTo/soilMoisture/">rusty nails wired together</a>). But, it never materialized.</p>
 
-<p>A very common method is the over-dry method. Heat a sample of biomass in an oven at low enough temperature to vaporize the water but not pyrolyze the biomass. Measure the mass before and after. The mass lost is the mass of water in the sample.</p>
+<p>A very common method is the oven-dry method. Heat a sample of biomass in an oven at low enough temperature to vaporize the water but not pyrolyze the biomass. Measure the mass before and after. The mass lost is the mass of water in the sample.</p>
 
 <p>I hoped to speed this up today by doing it in the microwave at the 150 C setting.</p>
 
@@ -69,7 +69,7 @@
   </tr>
 </table>
 
-<p>Moisture content reaches a <a href="http://www.knowledgebank.irri.org/rkb/index.php/rice-milling/contributions-and-references-milling/further-information-byproducts/husk-and-straw-properties#emc">maximum of around 15%</a> in rice hull. Reducing the mass by 10% means we're looking at a maximum of 5% moisture content, which is a reasonable moisture content to expect a device to handle.</p>
+<p>Moisture content reaches a <a href="http://www.knowledgebank.irri.org/rkb/index.php/rice-milling/contributions-and-references-milling/further-information-byproducts/husk-and-straw-properties#emc">maximum of around 15%</a> in rice hull. Reducing the mass by 10% means we're looking at a maximum of 5% moisture content, which is a reasonable moisture content to expect a small-scale combustion device to handle.</p>
 
 <p>If we still observe the strange behavior of the past few days during the tests with the dried sample, it is likely that moisture content is not the issue.</p>
 
