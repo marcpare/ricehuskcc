@@ -89,7 +89,7 @@
   </tr>
 </table>
 
-<p>The density of water is similarly interesting. A kg is defined as the mass of 1 cm^3 of water at 4 degree C. So, the density is</p>
+<p>The density of water is similarly interesting. A gram is defined as the mass of 1 cm^3 of water at 4 degree C. So, the density is</p>
 
 <table class="pure-table">
   <tr>
